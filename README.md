@@ -1,2 +1,2 @@
 # Wiki
-Documentation for AIR challenge at Leiden University
+Documentation for the AI & Robotics challenge @ Leiden University
